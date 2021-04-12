@@ -1,0 +1,26 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-color:rgb(50, 6, 82);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+background-color: khaki;
+align-content: center;
+}
+
+.card{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(241, 159, 228, 0.5) !important;
+}
+
